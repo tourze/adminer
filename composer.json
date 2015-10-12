@@ -1,0 +1,14 @@
+{
+  "name": "ywisax/adminer",
+  "description": "adminer advanced",
+  "authors": [
+    {
+      "name": "ywisax",
+      "email": "ywisax@qq.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "hisune/echarts-php": "^1.0"
+  }
+}
